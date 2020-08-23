@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_margin="10pt">
+
+    <TextView
+        android:id="@+id/tvGameClear"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/tvGameClear"
+        android:textSize="15pt"
+        android:layout_margin="10pt"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10pt"
+        android:text="@string/tvTime"
+        android:textSize="10pt" />
+
+    <TextView
+        android:id="@+id/tvTime"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="right"
+        android:textSize="40pt"/>
+
+    <Button
+        android:id="@+id/btOpeningBack"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10pt"
+        android:background="@android:color/holo_blue_dark"
+        android:text="@string/btOpeningBack"
+        android:textSize="13pt" />
+
+</LinearLayout>

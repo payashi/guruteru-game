@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ぐるてる</string>
+    <string name="tv_heading">全て白マスにしよう！</string>
+    <string name="panel_disc">てるてるパネル</string>
+    <string name="tv_explain">"　時は令和、日本は空前のてるてるぼうずブーム。数で勝る奴らに、気象庁はなすすべもなく、、"</string>
+    <string name="btHowTo">あそびかた</string>
+    <string name="btEasy">かんたん</string>
+    <string name="btNormal">ふつう</string>
+    <string name="btHard">あちゃあちゃ</string>
+    <string name="tvGameClear">任務達成！</string>
+    <string name="tvTime">あなたのタイムは</string>
+    <string name="btOpeningBack">タイトルに戻る</string>
+    <string name="tvHowTo1_1">"　国の最後の切り札であるあなたの任務は全国のてるてるぼうずの向きを変えて日本を救うことです。"</string>
+    <string name="tvHowTo1_2">"　各パネルに書かれた数字はその土地の降水値を表しており、全てのマスを0(白マス)にすれば任務完了です。"</string>
+    <string name="tvHowTo2_1">"　てるてるぼうずの影響範囲は自マスと隣接4マスで、正立したぼうずは+1、逆さぼうすは-1、横向きのは0だけ周囲のマスの降水値を加算します。"</string>
+    <string name="tvHowTo2_2">"　また、長押しによってマスの色を変えられる(緑マス)ので、攻略にご活用ください。"</string>
+
+</resources>
